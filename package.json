@@ -1,6 +1,6 @@
 {
   "name": "preact-use-async",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "",
   "source": "src/index.ts",
   "main": "dist/index.js",
